@@ -1,0 +1,7 @@
+package cookieCo;
+
+import robocode.Robot;
+
+public class CookieBot extends Robot {
+
+}
